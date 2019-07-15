@@ -12,9 +12,9 @@ h2 {
   font-weight: normal;
   font-style: italic;
 }
-
+  
 .completed {
-  font-family: 12px;
+  font-size: 12px;
 }
 
 #tasks .completed {
